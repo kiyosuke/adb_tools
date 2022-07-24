@@ -1,0 +1,2 @@
+class AdbNotFoundException implements Exception {
+}
